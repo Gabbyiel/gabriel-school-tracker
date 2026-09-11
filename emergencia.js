@@ -5,7 +5,7 @@ import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/
 const firebaseConfig = {
     apiKey: "Minha API",
     authDomain: "Meu Domínio",
-    databaseURL: "Minha URL;,
+    databaseURL: "Minha URL";,
     projectId: "MeuID"
 };
 
